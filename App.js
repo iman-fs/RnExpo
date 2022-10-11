@@ -6,7 +6,7 @@ import List from './List';
 
 function HomeScreen({navigation}) {
   return (
-    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#5e0acc' }}>
+    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#474747' }}>
       <Text style={{color:'white', padding: 10, fontSize:16}}>Home Screen</Text>
       <Button
         title='Go to Todos'

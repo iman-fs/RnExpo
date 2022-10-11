@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         margin: 8,
         borderRadius: 6,
-        backgroundColor: '#5e0acc',
+        backgroundColor: '#474747',
         padding: 8,
     },
     todoItemText: {
@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 8,
         borderRadius: 4,
         elevation: 3,
-        backgroundColor: '#b998e38f',
+        backgroundColor: '#af25258f',
     },
     text: {
         color: 'white',
